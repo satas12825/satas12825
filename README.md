@@ -32,3 +32,63 @@ focus:
   - Modern Scalable Web Applications & APIs
 core_stack: [Angular, TypeScript, Python, Docker, GIS/MapLibre]
 status: Always architecting, coding & shipping 🚀
+```
+
+---
+
+### 🛠️ Tech Arsenal & Stack
+
+<div align="center">
+
+  <!-- Core Languages & Frameworks -->
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,angular,python,fastapi,tailwind,html,css&perline=8&theme=dark" alt="Languages & Frameworks" />
+    </a>
+  </p>
+
+  <!-- Cloud, Geospatial & DevOps -->
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,postgres,git,github,aws,linux,nginx,postman&perline=8&theme=dark" alt="Cloud & Tools" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🛰️ Domains of Expertise
+
+| Domain | Core Focus & Technologies |
+| :--- | :--- |
+| **🌐 WebGIS & Spatial Data** | MapLibre GL, Tileserver-GL, Vector Tiles, GeoJSON, PostGIS, Spatial Analytics |
+| **🛸 Drone & Aerial Imaging** | Photogrammetry pipelines (WebODM), Autonomous Drone Systems, Cloud processing |
+| **💻 Full-Stack Development** | Angular, TypeScript, Python (FastAPI/Flask), RESTful APIs, Tailwind CSS |
+| **⚙️ DevOps & Cloud Infra** | Docker, Docker Compose, AWS Cloud, CI/CD pipelines, Linux environments |
+
+---
+
+### 🔥 GitHub Activity & Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=satas12825&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/satas12825">
+    <img src="https://img.shields.io/badge/GitHub-satas12825-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Designed with minimal & dark-mode aesthetic.</sub>
+</div>
